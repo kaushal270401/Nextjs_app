@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id":1,
+      "accountNumber": 1276897645,
+      "nickname": "admin",
+      "accountType": "current",
+      "balance": "32232",
+      "showBalance": false
+    },
+    {
+      "id":2,
+      "accountNumber": 1276897645,
+      "nickname": "rahul",
+      "accountType": "saving",
+      "balance": 100000,
+      "showBalance": true
+    },
+    {
+      "id":3,
+      "accountNumber": 1276897645,
+      "nickname": "sam",
+      "accountType": "current",
+      "balance": 323223,
+      "showBalance": false
+    },
+    {
+      "id":4,
+      "accountNumber": 1276897645,
+      "nickname": "karan",
+      "accountType": "current",
+      "showBalance": false,
+      "balance": 50000
+    },
+    {
+      "id":5,
+      "accountNumber": 127324235,
+      "nickname": "anirudh",
+      "accountType": "saving",
+      "showBalance": false,
+      "balance": 53224
+    }
+  ]
+  
+  
+}

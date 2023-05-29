@@ -1,0 +1,21 @@
+.container {
+  background-color: #f1f1f1;
+  border-color: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  align-items: center;
+}
+.nav {
+  margin-left: 50%;
+}
+.listgroup {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list {
+  color: blue;
+  font-size: 1.5rem;
+}

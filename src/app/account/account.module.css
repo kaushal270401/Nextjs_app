@@ -1,0 +1,33 @@
+.customers {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 350px;
+  width: 100vh;
+}
+
+.title{
+  margin: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 350px;
+}
+.tr{
+  height: 5vh;
+}
+
+.td {
+  color: green;
+  margin-top: 2rem;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+.btn{
+  padding: 10px;
+  color: white;
+  background-color: blue;
+}
